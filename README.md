@@ -33,7 +33,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 in this HTML and CSS challenge, your task is to reproduce this nested layout:
 
-image.png
+![sample](./public/sample.png)
 
 Specifically, position a box of red text nested in the bottom-right corner of a text-filled container. The text in the larger container should flow around the box. We'll use the size (in pixels) of 100*100 for the small box and 250*250 for the large box.
 
